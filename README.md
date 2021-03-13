@@ -1,6 +1,6 @@
 # DDNS-Updater
 
-This script let you dynamic updates of A records for domains maintained with [PDNS Manager](https://github.com/loewexy/pdnsmanager/).
+This script let you perform dynamic updates of A records for domains maintained with [PDNS Manager](https://github.com/loewexy/pdnsmanager/).
 
 It is used for dynamic updating via dyndns clients like e.g. routers.
 
